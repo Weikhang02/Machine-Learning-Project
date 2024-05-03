@@ -1,4 +1,3 @@
-streamlit==<version>  # Version number can be specified if needed
 pandas
 numpy
 scikit-learn
