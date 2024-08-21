@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+streamlit
+scikit-learn
+seaborn
+textblob
+nltk==3.8.1
+stopwords
+streamlit==1.28.0
